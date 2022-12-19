@@ -12,9 +12,8 @@ a {
 }
 
 body {
-    width: 1600px;
+    width: 1440px;
     font-family: 'Roboto', sans-serif;
-    min-height: 100vh;
     margin: auto;
     padding: 0;
     display: flex;
@@ -43,20 +42,25 @@ body {
     padding: 0 20px;
     line-height: 50px;
     transition: 0.5s;
-    color: #762104;
+    color: black;
 }
 
 .nav-link:hover {
-    color: #feeae3;
+    color: #feeae3
 }
 
-
-
-.main {
-
+.avatar {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
 }
 
 .footer {
+    display:flex;
+    justify-content: space-around;
+    align-items:center;
     background-color: #879F84;
     height: 50px;
 }
+
+
