@@ -32,7 +32,6 @@ body {
 .nav-list {
     margin-left: auto;
     display: flex;
-    justify-content: flex;
     align-items: flex-end;
 }
 
