@@ -7,6 +7,10 @@ ul {
     list-style: none;
 }
 
+a {
+    text-decoration: none;
+}
+
 body {
     width: 1600px;
     font-family: 'Roboto', sans-serif;
@@ -48,8 +52,11 @@ body {
 
 
 
-.main {}
+.main {
+
+}
 
 .footer {
     background-color: #879F84;
+    height: 50px;
 }
